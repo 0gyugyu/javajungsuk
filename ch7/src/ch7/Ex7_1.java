@@ -25,6 +25,6 @@ public class Ex7_1 {
 		System.out.println(stv.channel);
 		stv.displayCaption("Hello, World");
 		stv.caption = true; //자막 기능을 on
-		stv.displayCaption("자막기능이 켜졌습니다.");
+		stv.displayCaption("Hello, World");
 	}
 }
